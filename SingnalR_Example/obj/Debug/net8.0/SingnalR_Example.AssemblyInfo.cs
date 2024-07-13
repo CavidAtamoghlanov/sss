@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingnalR_Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b841eb436d23192405d1ce089cc53305c1c7fd51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09c76eaaeda3405f7193f3c51a14ddba8cdf34ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingnalR_Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingnalR_Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
